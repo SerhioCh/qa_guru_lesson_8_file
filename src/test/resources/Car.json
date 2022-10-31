@@ -1,0 +1,10 @@
+{
+  "car": "Porshe",
+  "mileage": 100000,
+  "color": "black",
+  "construction": ["turbo", "twinturbo"],
+  "speed" : {
+    "maximum": 245,
+    "rotation": "6200"
+  }
+}
